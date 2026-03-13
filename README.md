@@ -1,0 +1,1 @@
+# Django_notesbridge_zip
